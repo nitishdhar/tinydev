@@ -12,10 +12,11 @@ It's in a way like a framework but way too simple & easy to understand.
 <li>Fully responsive</li>
 <li>SEO friendly Url setup</li>
 <li>Single file meta tags configuration</li>
+<li>Maintenance Mode Config</li>
 <li>Header, footer & content separation in the layout</li>
 <li>Active tab detection in the navigation</li>
-<li>Single functions file for basic required fucntions</li>
-<li>Reusable blocks setup</li>
+<li>Single functions file for basic required functions</li>
+<li>Reusable code blocks</li>
 </ul>
 
 Live Demo - <a href="http://work.nitishdhar.com/starter-kit/" target="_blank">Starter Kit</a>
