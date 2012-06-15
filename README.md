@@ -15,6 +15,7 @@ It's like a compact & tiny framework that is simple & easy to understand or impl
 <li>SEO friendly Url setup</li>
 <li>Single file meta tags configuration</li>
 <li>Maintenance Mode Config</li>
+<li>Custom 404 page setup</li>
 <li>Header, footer & content separation in the layout</li>
 <li>Active tab detection in the navigation</li>
 <li>Single functions file for basic required functions</li>
