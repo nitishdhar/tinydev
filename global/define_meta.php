@@ -2,10 +2,10 @@
 function title() {
     $currentPage = currPage();
     switch($currentPage) {
-        case '': echo 'Home | Welcome to Chanan'; break;
-        case 'home': echo 'Home | Welcome to Chanan'; break;
-        case 'about': echo 'About | Welcome to Chanan'; break;
-        default : echo 'Welcome to Chanan'; break;
+        case '': echo 'Home | Welcome to Tiny Dev Kit'; break;
+        case 'home': echo 'Home | Welcome to Tiny Dev Kit'; break;
+        case 'about': echo 'About | Welcome to Tiny Dev Kit'; break;
+        default : echo 'Welcome to Tiny Dev Kit'; break;
     }
 }
 

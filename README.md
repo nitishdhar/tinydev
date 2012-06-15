@@ -1,7 +1,7 @@
-<h2>Starter Kit</h2>
+<h2>Tiny Dev Kit</h2>
 ===========
 
-<strong>Starter Kit</strong> is a free, open source, development kit for HTML, PHP released under <a href="https://github.com/nitishdhar/starter-kit/blob/master/License.txt">MIT License</a>. 
+<strong>Tiny Dev Kit</strong> is a free, open source, development kit for HTML, PHP released under <a href="https://github.com/nitishdhar/tinydev/blob/master/License.txt">MIT License</a>. 
 <br/>
 It can be used for developing small scale websites & even big applications. Its implemented on twitter bootstrap framework &amp; has a completely responsive design
 <br/>
@@ -21,4 +21,4 @@ It's in a way like a framework but way too simple & easy to understand.
 <li>Reusable code blocks</li>
 </ul>
 
-Live Demo - <a href="http://work.nitishdhar.com/starter-kit/" target="_blank">Starter Kit</a>
+Live Demo - <a href="http://work.nitishdhar.com/tinydev/" target="_blank">Starter Kit</a>

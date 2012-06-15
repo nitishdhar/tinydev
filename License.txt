@@ -1,6 +1,6 @@
 The MIT License
 
-Starter Kit is a free, open source, development kit for HTML, PHP
+Tiny Dev Kit is a free, open source, development kit for HTML, PHP
 Copyright 2012, Nitish Dhar <nitishdhar11@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a
