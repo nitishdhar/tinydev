@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <?php include_once 'global/head.php'; ?>
+        <?php include_once 'blocks/head.php'; ?>
     </head>
     <body>
         <div class="container">

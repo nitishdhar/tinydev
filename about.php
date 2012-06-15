@@ -2,12 +2,12 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <?php include_once 'global/head.php'; ?>
+        <?php include_once 'blocks/head.php'; ?>
     </head>
     <body>
         <div class="container">
             <!-- Header -->
-            <?php include_once 'global/header.php'; ?>
+            <?php include_once 'blocks/header.php'; ?>
             <!-- Header Ends-->
             <!-- This page content -->
             <div class="row">
@@ -31,7 +31,7 @@
             <!-- This page content Ends Here -->
 
             <!-- Footer Here -->
-            <?php include_once 'global/footer.php'; ?>
+            <?php include_once 'blocks/footer.php'; ?>
             <!-- Footer Ends Here -->
 
         </div> <!-- /container -->
