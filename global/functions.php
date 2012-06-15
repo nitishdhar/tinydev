@@ -1,10 +1,4 @@
 <?php
-//Definetions
-define('SITE_URL', 'http://starter.local');
-define('SITE_NAME', 'Starter Kit');
-
-include_once 'head_functions.php';
-
 function curPageURL() {
  $pageURL = 'http';
  if (isset($_SERVER['HTTPS']) && $_SERVER["HTTPS"] == "on") {$pageURL .= "s";}

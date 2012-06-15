@@ -11,7 +11,7 @@
                 Navigate
             </a>
             <div class="nav-collapse">
-                 <?php include_once 'menu_items.php'; ?>
+                 <?php include_once 'main_menu_items.php'; ?>
             </div><!--/.nav-collapse -->
         </div>
     </div>

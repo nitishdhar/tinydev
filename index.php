@@ -1,4 +1,4 @@
-<?php include_once 'global/functions.php'; ?>
+<?php include_once 'global/super_head.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
