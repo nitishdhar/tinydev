@@ -6,4 +6,16 @@ An HTML, PHP based starter kit for developing small scale websites. Its implemen
 
 It's in a way like a framework but way too simple & easy to understand.
 
+<strong>Features</strong>
+<ul>
+<li>Uses twitter bootstrap framework</li>
+<li>Fully responsive</li>
+<li>SEO friendly Url setup</li>
+<li>Single file meta tags configuration</li>
+<li>Header, footer & content separation in the layout</li>
+<li>Active tab detection in the navigation</li>
+<li>Single functions file for basic required fucntions</li>
+<li>Reusable blocks setup</li>
+</ul>
+
 Live Demo - <a href="http://work.nitishdhar.com/starter-kit/" target="_blank">Starter Kit</a>
