@@ -69,12 +69,6 @@
             <!-- Footer Here -->
             <?php include_once 'global/footer.php'; ?>
             <!-- Footer Ends Here -->
-
-
         </div> <!-- /container -->
-        <!-- Scripts Here -->
-        <?php include_once 'global/scripts.php'; ?>
-        <!-- Scripts Ends Here -->
-
     </body>
 </html>
