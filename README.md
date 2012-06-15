@@ -2,11 +2,11 @@
 ===========
 
 <strong>Tiny Dev Kit</strong> is a free, open source, development kit for HTML, PHP released under <a href="https://github.com/nitishdhar/tinydev/blob/master/License.txt">MIT License</a>. 
-<br/>
-It can be used for developing small scale websites & even big applications. Its implemented on twitter bootstrap framework &amp; has a completely responsive design
-<br/>
 
-It's in a way like a framework but way too simple & easy to understand.
+
+It can be used for developing small scale websites & even big applications. Its implemented on twitter bootstrap framework &amp; has a completely responsive design
+
+It's like a compact & tiny framework that is simple & easy to understand or implement.
 
 <strong>Features</strong>
 <ul>
@@ -21,4 +21,4 @@ It's in a way like a framework but way too simple & easy to understand.
 <li>Reusable code blocks</li>
 </ul>
 
-Live Demo - <a href="http://work.nitishdhar.com/tinydev/" target="_blank">Starter Kit</a>
+Live Demo - <a href="http://work.nitishdhar.com/tinydev/" target="_blank">Tiny Dev Kit</a>
