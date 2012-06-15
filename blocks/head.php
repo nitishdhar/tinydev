@@ -24,5 +24,5 @@
 <![endif]-->
 <!-- Css Links Ends -->
 
-<link rel="shortcut icon" href="<?php echo SITE_URL; ?>/img/favicon.ico">
+<link rel="shortcut icon" href="http://placehold.it/16X16&text=S">
 <!-- @todo add apple touch icons -->
