@@ -1,5 +1,5 @@
 <?php
-function curPageURL() {
+function currPageURL() {
  $pageURL = 'http';
  if (isset($_SERVER['HTTPS']) && $_SERVER["HTTPS"] == "on") {$pageURL .= "s";}
  $pageURL .= "://";
@@ -11,13 +11,13 @@ function curPageURL() {
  return $pageURL;
 }
 
-function curPage() {
-    $currentPageArray = explode('/', curPageURL());
+function currPage() {
+    $currentPageArray = explode('/', currPageURL());
     return end($currentPageArray);
 }
 
 function activeTab($currentTab) {
-    $currentPageArray = explode('/', curPageURL());
+    $currentPageArray = explode('/', currPageURL());
     $currentPage = end($currentPageArray);
     
     if($currentPage == $currentTab) {

@@ -1,6 +1,6 @@
 <?php
 function title() {
-    $currentPage = curPage();
+    $currentPage = currPage();
     switch($currentPage) {
         case '': echo 'Home | Welcome to Chanan'; break;
         case 'home': echo 'Home | Welcome to Chanan'; break;
@@ -10,7 +10,7 @@ function title() {
 }
 
 function description() {
-    $currentPage = curPage();
+    $currentPage = currPage();
     switch($currentPage) {
         case '': echo 'your awesome description here..'; break;
         case 'home': echo 'your awesome description here..'; break;
@@ -21,7 +21,7 @@ function description() {
 
 
 function keywords() {
-    $currentPage = curPage();
+    $currentPage = currPage();
     switch($currentPage) {
         case '': echo 'clous services, web development'; break;
         case 'home': echo 'clous services, web development'; break;

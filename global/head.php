@@ -5,6 +5,14 @@
 <meta name="keywords" content="<?php keywords(); ?>">
 <meta name="author" content="">
 
+<!-- Le Facebook tags -->
+
+<meta property="og:title" content="<?php title(); ?>" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="<?php currPageURL(); ?>" />
+<meta property="og:image" content="http://placehold.it/300X300&text=Facebook Post Icon" />
+<meta property="og:description" content="<?php description(); ?>" />
+
 <!-- Le styles -->
 <link href="css/bootstrap.css" rel="stylesheet">
 <link href="css/custom.css" rel="stylesheet">
