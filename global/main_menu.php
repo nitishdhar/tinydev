@@ -5,15 +5,15 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
             </a>
-            <a class="brand" href="#">Project name</a>
+            <a class="brand hidden-desktop" href="<?php echo SITE_URL; ?>">
+                Navigate
+            </a>
             <div class="nav-collapse">
-                <ul class="nav">
-                    <li <?php activeTab('home'); activeTab(''); ?>><a href="home">Home</a></li>
-                    <li <?php activeTab('about'); ?>><a href="about">About</a></li>
-                    <li <?php activeTab('contact'); ?>><a href="#">Contact</a></li>
-                </ul>
+                 <?php include_once 'menu_items.php'; ?>
             </div><!--/.nav-collapse -->
         </div>
     </div>
 </div>
+

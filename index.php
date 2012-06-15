@@ -2,46 +2,65 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <meta charset="utf-8">
-        <title>Boot Starter by Chanan - Based on Bootstrap by Twitter</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="">
-        <meta name="author" content="">
-        <!-- Css Links -->
-        <?php include_once 'global/css.php'; ?>
-        <!-- Css Links Ends -->
+        <?php include_once 'global/head.php'; ?>
     </head>
-
     <body>
         <div class="container">
-            <!-- Main Menu -->
-            <?php include_once 'global/main_menu.php'; ?>
-            <!-- Main Menu Ends-->
-
+            <!-- Header -->
+            <?php include_once 'global/header.php'; ?>
+            <!-- Header Ends-->
             <!-- This page content -->
-
             <div class="hero-unit">
-                <h1>Hello, world!</h1>
-                <p>This is a template for a simple marketing or informational website. It includes a large callout called the hero unit and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-                <p><a class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+                <h1>your awesome tag line...</h1><br/>
+                <p>Sine ea igitur iucunde negat posse se vivere? Nobis aliter videtur, recte secusne, postea; Et hercule-fatendum est enim, quod sentio -mirabilis est apud illos contextus rerum.</p>
+                <p><a class="btn btn-large">Learn more »</a></p>
             </div>
 
             <!-- Example row of columns -->
             <div class="row">
-                <div class="span4">
-                    <h2>Heading</h2>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                    <p><a class="btn" href="#">View details &raquo;</a></p>
-                </div>
-                <div class="span4">
-                    <h2>Heading</h2>
-                    <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-                    <p><a class="btn" href="#">View details &raquo;</a></p>
-                </div>
-                <div class="span4">
-                    <h2>Heading</h2>
-                    <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-                    <p><a class="btn" href="#">View details &raquo;</a></p>
+                <div class="span12">
+                    <ul class="thumbnails">
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <img src="http://placehold.it/260x180" alt="">
+                                <div class="caption">
+                                    <h5>Thumbnail label</h5>
+                                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                    <p><a href="#" class="btn btn-primary">Read More</a></p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <img src="http://placehold.it/260x180" alt="">
+                                <div class="caption">
+                                    <h5>Thumbnail label</h5>
+                                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                    <p><a href="#" class="btn btn-primary">Read More</a> </p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <img src="http://placehold.it/260x180" alt="">
+                                <div class="caption">
+                                    <h5>Thumbnail label</h5>
+                                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                    <p><a href="#" class="btn btn-primary">Read More</a> </p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="span3">
+                            <div class="thumbnail">
+                                <img src="http://placehold.it/260x180" alt="">
+                                <div class="caption">
+                                    <h5>Thumbnail label</h5>
+                                    <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                    <p><a href="#" class="btn btn-primary">Read More</a> </p>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
             </div>
 
