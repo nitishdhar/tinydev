@@ -1,2 +1,12 @@
 /* Place custom onsite css here */
 body { margin-top: 10px; }
+
+.stayInCenter {      
+    position:absolute;
+    /* Move to the center of the positioned parent */
+    left:50%; top:50%;
+    /* Give a fixed size */
+    width: 500px; height: 100px;
+    /* Move backwards by half the size, so the center is at 50% */
+    margin-left:-250px; margin-top:-50px;
+}

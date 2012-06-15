@@ -2,3 +2,4 @@ RewriteEngine on
 
 RewriteRule ^home\/?$ index.php [L]
 RewriteRule ^about\/?$ about.php [L]
+RewriteRule ^maintenance\/?$ maintenance.php [L]

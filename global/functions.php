@@ -25,4 +25,17 @@ function activeTab($currentTab) {
     }
 }
 
+/*
+ * Check if the site is under maintenance, 
+ * if it is, redirect to the maintenance page
+ * 
+ */
+function checkMaintenance() {
+    if(MAINTENANCE && currPage() != 'maintenance') {
+        header('Location: maintenance');
+    } else if(!MAINTENANCE && currPage() == 'maintenance') {
+        header('Location: home');
+    }
+}
+
 ?>
