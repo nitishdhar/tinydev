@@ -1,7 +1,9 @@
-starter-kit
+<h2>Starter Kit</h2>
 ===========
 
-An HTML, PHP based starter kit for developing small scale websites. Its implemented on twitter bootstrap framework &amp; is completely responsive 
+<strong>Starter Kit</strong> is a free, open source, development kit for HTML, PHP released under <a href="https://github.com/nitishdhar/starter-kit/blob/master/License.txt">MIT License</a>. 
+<br/>
+It can be used for developing small scale websites & even big applications. Its implemented on twitter bootstrap framework &amp; has a completely responsive design
 <br/>
 
 It's in a way like a framework but way too simple & easy to understand.
