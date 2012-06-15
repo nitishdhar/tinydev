@@ -1,5 +1,7 @@
+ErrorDocument 404 /404
 RewriteEngine on
 
+RewriteRule ^404\/?$ 404.php [L]
 RewriteRule ^home\/?$ index.php [L]
 RewriteRule ^about\/?$ about.php [L]
 RewriteRule ^maintenance\/?$ maintenance.php [L]
